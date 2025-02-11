@@ -1,3 +1,3 @@
 # hello-world
 "My first project"
-anna.nikula@it.hs
+anna.nikula@iths.se
